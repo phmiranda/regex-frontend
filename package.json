@@ -1,0 +1,14 @@
+{
+  "name": "regex-js",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phmiranda",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
